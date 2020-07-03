@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Anuj Dubey
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: North Carolina State University
+  url: "https://www.ece.ncsu.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I work towards secure hardware-software co-design of systems.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Physcial Side-Channel Attacks and Faults
+- Machine Learning
+- Computer Architecture
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Electrical and Computer Engineering
+    institution: North Carolina State University
+    year: 2022 (expected)
+  - course: BE (Hons) in Electrical and Electronics
+    institution: Birla Institute of Technology and Science-Pilani
+    year: 2014
+  - course: MSc (Hons) in Physics
+    institution: Birla Institute of Technology and Science-Pilani
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +44,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: '#contact'  # For a direct email link, use "mailto:aanujdu@ncsu.edu".
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://scholar.google.com/citations?user=ZSI71tUAAAAJ&hl=en
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +70,5 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am pursuing a Ph.D. in Electrical and Computer Engineering at North Carolina State University under the guidance of Dr. Aydin Aysu. My research mainly focuses on a combination of physical side-channel analysis of embedded systems, machine learning, and computer architecture. Currently, I am working towards securing Machine Learning IPs against power and electromagnetic -based side-channel attacks. I have served as a co-reviewer to Dr. Aydin Aysu in various top-tier conferences like ICCAD, HOST, FPGA, ReConFig, DATE, etc. I have also been a teaching assistant for the course Cryptographic Engineering and Hardware Security course offered at NC State University twice. I helped with the designing and grading of assignments on varied topics like Differential Power Analysis of cryptographic implementations, hardware design of post-quantum secure implementation, etc. I hold a certification by Riscure Inc on Side-Channel and Fault Analysis of Embedded Systems.
+Before joining the Ph.D. program, I was an ASIC Design Engineer in the low-power design team of NVIDIA Graphics, Bangalore. I contributed to numerous successful ASIC tapeouts during his stint at NVIDIA helping both in the design and verification phases. 
