@@ -51,6 +51,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=ZSI71tUAAAAJ&hl=en
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/anuj-d-60a32419
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
