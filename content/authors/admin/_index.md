@@ -73,8 +73,8 @@ user_groups:
 - Visitors
 ---
 
-I am pursuing a Ph.D. in Electrical and Computer Engineering at North Carolina State University under the guidance of Dr. Aydin Aysu. My research mainly focuses on a combination of physical side-channel analysis of embedded systems, machine learning, and computer architecture. Currently, I am working towards securing Machine Learning IPs against power and electromagnetic -based side-channel attacks. 
+I am pursuing a Ph.D. in Electrical and Computer Engineering at North Carolina State University under the guidance of Dr. [Aydin Aysu](https://www.ece.ncsu.edu/people/aaysu/). I am a member of the hardware security lab of NCSU called [HECTOR](https://research.ece.ncsu.edu/aaysu/). My research mainly focuses on a combination of physical side-channel analysis of embedded systems, machine learning, and computer architecture. Currently, I am working towards securing Machine Learning IPs against power and electromagnetic -based side-channel attacks.
 
 I have served as a co-reviewer to Dr. Aydin Aysu in various top-tier conferences like ICCAD, HOST, FPGA, ReConFig, DATE, etc. I have also been a teaching assistant for the course Cryptographic Engineering and Hardware Security offered at NC State University. I helped with the designing and grading of assignments on varied topics like Differential Power Analysis of cryptographic implementations, hardware design of post-quantum secure implementations (like ring-LWE), etc. I hold a certification by Riscure Inc. on Side-Channel and Fault Analysis of Embedded Systems.
 
-Before joining the Ph.D. program, I was an ASIC Design Engineer in the GPU low-power team of NVIDIA Graphics, Bangalore. I contributed to numerous successful ASIC tapeouts during my stint at NVIDIA helping both in the design and verification phases. 
+Before joining the Ph.D. program, I was an ASIC Design Engineer in the GPU low-power team of NVIDIA Graphics, Bangalore. I contributed to numerous successful ASIC tapeouts during my stint at NVIDIA helping both in the design and verification phases.
