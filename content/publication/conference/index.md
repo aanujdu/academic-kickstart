@@ -1,5 +1,5 @@
 ---
-title: "An example conference paper"
+title: "MaskedNET"
 authors:
 - admin
 - Robert Ford
