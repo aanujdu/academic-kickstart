@@ -1,8 +1,9 @@
 ---
-title: "MaskedNET"
+title: "MaskedNet: The First Hardware Inference Engine Aiming Power Side-Channel Protection"
 authors:
 - admin
-- Robert Ford
+- Rosario Cammarota
+- Aydin Aysu
 date: "2013-07-01T00:00:00Z"
 doi: ""
 
