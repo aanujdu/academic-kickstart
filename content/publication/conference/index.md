@@ -31,7 +31,7 @@ tags:
 featured: true
 
 links:
-- name: Custom Link
+- name: Link
   url: https://arxiv.org/abs/1910.13063
 url_pdf: https://arxiv.org/abs/1910.13063.pdf
 #url_code: '#'
